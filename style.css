@@ -211,7 +211,7 @@ body {
 
 .tab-content {
   height: unset !important;
-  max-width: 100%;
+  max-width: 99%;
 }
 
 .navbar {
@@ -240,6 +240,10 @@ body {
   padding-bottom: 0;
   padding-left: 10px;
   padding-right: 5px;
+}
+
+.tabset {
+  margin-left: 1% !important;
 }
 
 /* ---- */
